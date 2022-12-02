@@ -1,0 +1,7 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Brabander
+    given-names: Frank
+title: "LCD Library for microcontroller"
+version: 1.0.0
